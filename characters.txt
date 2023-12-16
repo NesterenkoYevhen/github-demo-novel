@@ -1,0 +1,19 @@
+Character 1:
+
+Name: Seraphina Nightingale
+Description: Seraphina, a young witch with an affinity for fire, possesses a mane of wild crimson hair that dances like flames when she's excited. Her emerald eyes reflect her intense curiosity, always seeking new spells and ancient tomes. Despite her fiery nature, she harbors a gentle heart, often tending to injured woodland creatures with her healing magic.
+
+Character 2:
+
+Name: Gabriel Hawthorne
+Description: Gabriel, a brooding and enigmatic werewolf, bears scars that tell stories of battles and a past he'd rather forget. His piercing amber eyes hold a mix of fierceness and vulnerability, shielding a heart loyal to those he trusts. In human form, his tousled dark hair contrasts with the beast within, keeping secrets only the moon knows.
+
+Character 3:
+
+Name: Astrid Evergreen
+Description: Astrid, an elven archer, moves through the forest with the grace of the wind, her long silver hair cascading like a waterfall down her back. Her eyes, the color of fresh leaves, hold ancient wisdom, earned through centuries of life. Armed with her bow crafted from enchanted wood, she's fiercely protective of nature's balance, willing to fight to preserve it.
+
+Character 4:
+
+Name: Alexander Cromwell
+Description: Alexander, a charismatic and cunning rogue, navigates society's upper echelons with ease, his charming smile hiding a mastermind's intellect. Dressed impeccably in tailored suits, he carries an air of mystery, concealing his true intentions behind cleverly woven words. Though his motives may seem ambiguous, his loyalty to a select few runs deep, revealing his complex and intricate moral code.
