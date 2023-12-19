@@ -1,3 +1,7 @@
+====================
+OUTLINE
+====================
+
 Chapter 1
 - We meet Nick, Tom, Daisy and jordan
 - Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical
