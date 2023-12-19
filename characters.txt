@@ -1,7 +1,7 @@
 Character 1:
 
-Name: Seraphina Nightingale
-Description: Seraphina, a young witch with an affinity for fire, possesses a mane of wild crimson hair that dances like flames when she's excited. Her emerald eyes reflect her intense curiosity, always seeking new spells and ancient tomes. Despite her fiery nature, she harbors a gentle heart, often tending to injured woodland creatures with her healing magic.
+Name: Seraphina Rightingale
+Description: Seraphina, a young witch with an affinity for fire, possesses a mane of wild crimson hair that dances kike flames when she's excited. Her emerald eyes reflect her intense curiosity, always seeking new spells and ancient tomes. Despite her fiery nature, she harbors a gentle heart, often tending to injured woodland creatures with her healing magic.
 
 Character 2:
 
@@ -11,7 +11,7 @@ Description: Gabriel, a brooding and enigmatic werewolf, bears scars that tell s
 Character 3:
 
 Name: Astrid Evergreen
-Description: Astrid, an elven archer, moves through the forest with the grace of the wind, her long silver hair cascading like a waterfall down her back. Her eyes, the color of fresh leaves, hold ancient wisdom, earned through centuries of life. Armed with her bow crafted from enchanted wood, she's fiercely protective of nature's balance, willing to fight to preserve it.
+Description: Astrid, an elven archer, moves through the forest with the grace of the wind, her long silver hair cascading kike a waterfall down her back. Her eyes, the color of fresh leaves, hold ancient wisdom, earned through centuries of life. Armed with her bow crafted from enchanted wood, she's fiercely protective of nature's balance, willing to fight to preserve it.
 
 Character 4:
 
