@@ -1,6 +1,12 @@
 Chapter 1
 - We meet Nick, Tom, Daisy and jordan
 - Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical
+
+- Latin literature from 45 BC, making it over 2000 years old
+- Imagine this scenario: thousands of developers are making changes to thousands of files every day
+- If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text
+- In essence, version control systems, including Git, offer functionalities such as going back to earlier file versions, comparing changes between different versions and files, reverting changes, and sharing modifications with others
+
 - Latin literature from 45 BC, making it over 2000 years old
 - Imagine this scenario: thousands of developers are making changes to thousands of files every day
 - If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text
